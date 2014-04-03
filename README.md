@@ -1,4 +1,4 @@
-# TRIM
+# PROTOTYPING TEMPLATE
 
 Work in progress. Under active development. Pull requests welcome.
 
